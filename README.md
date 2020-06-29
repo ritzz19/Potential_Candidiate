@@ -1,2 +1,2 @@
 # Potential_Candidiate
-Potential_Candidiate(internbuddy)
+To identify the potential candidates to offer job for respective roles.
